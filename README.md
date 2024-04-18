@@ -100,3 +100,6 @@ plt.show()
 
 
 ### Result:
+
+Thus Link Analysis using HITS Algorithm in Python is successfully implemented.
+
